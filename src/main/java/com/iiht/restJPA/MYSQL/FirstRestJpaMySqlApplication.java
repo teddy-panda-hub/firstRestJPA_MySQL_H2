@@ -8,6 +8,7 @@ public class FirstRestJpaMySqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRestJpaMySqlApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
